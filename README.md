@@ -3,5 +3,14 @@ QR stands for "Quick Response." While they may look simple, QR codes are capable
 
 ##OutPut:
 
+![imgg](https://user-images.githubusercontent.com/75168319/226122610-9c4f8886-2d28-4f91-8fe0-bf6bc55878f0.jpg)
+![img](https://user-images.githubusercontent.com/75168319/226122568-db036981-c00b-45fd-9160-8856767d8635.jpg)
+![imggg](https://user-images.githubusercontent.com/75168319/226122658-bcb746c2-b118-4de9-988f-6fb597073b6a.jpg)
 
-![he](https://user-images.githubusercontent.com/75168319/226122049-18d36b94-20bf-4260-9b1e-29af33e71f1a.jpg)![eee](https://user-images.githubusercontent.com/75168319/226122062-bdcce342-f81f-4450-b2e4-c927caf208ce.jpg)![ssss](https://user-images.githubusercontent.com/75168319/226122071-1177169f-4755-4094-8f0b-09aee933b195.jpg)
+
+##Tools And Programming Language
+<br>
+<ul>
+<li>Android Studio</li>
+<li>Java</li>
+</ul>
